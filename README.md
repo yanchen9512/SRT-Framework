@@ -7,7 +7,6 @@ A validated two-stage framework for constraining climate feedbacks and propagati
 ## Authors
 
 - [Yan Chen] - Conceptualization, methodology, validation, code implementation
-- [Duoying Ji] - SRT relationship conceptualization
 
 ## Key Papers
 
